@@ -1,1 +1,3 @@
-# Land-Cover-Change-Detection-Deforestation-
+**Title** : **Land Cover Change Detection Deforestation**
+
+Embark on an insightful journey through the lush landscapes of Arunachal Pradesh with our project on Land Cover Change Detection, focusing on deforestation. Utilizing satellite image data spanning the years 2000, 2010, and 2022, we employ a powerful combination of Python's Rasterio library, Erdas Imagine, and QGIS. Through advanced analysis techniques, we unveil the evolving patterns of land cover transformation, shedding light on the impact of deforestation over time. Join us in leveraging technology and expertise to drive conservation efforts and promote sustainable land management practices in this ecologically vital region.
